@@ -1,0 +1,6 @@
+### Data & Sample Control
+The file `Participants_Groups.csv` contains the demographic distribution and group allocation log.
+
+* **N = 20** (10 Females, 10 Males).
+* **Age Range:** 18-30 years.
+* **Groups:** Participants were randomly assigned to 4 groups (A, B, C, D) to counterbalance the order of experimental conditions using a Latin Square design.
