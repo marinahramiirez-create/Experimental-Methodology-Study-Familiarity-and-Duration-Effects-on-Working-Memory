@@ -17,7 +17,10 @@ After each list, participants performed a distractor task (arithmetic or Stroop)
 *   **Duration:** No statistically significant difference was found ($p = .385$).
 *   **Interaction:** The interaction between familiarity and duration was not significant ($p = .182$).
 
-**Conclusion:** The results highlight the critical role of familiarity in memory research, suggesting it is a more robust predictor of recall success than the mere increase of stimulus exposure time within the 1-2 second range.
+## Conclusion
+The study concludes that **word familiarity** is a critical determinant of performance in free recall tasks. The high effect size ($\eta_p^2 = .756$) suggests that pre-existing semantic representations in long-term memory significantly facilitate the retrieval process in working memory. 
+
+In contrast, **increasing stimulus duration** from 1000ms to 2000ms did not yield significant improvements. This indicates that, for young adults, additional exposure time within this range is not a sufficient factor to enhance recall if the stimulus lacks familiarity. These results emphasize the necessity of controlling for linguistic familiarity in experimental memory designs.
 
 ## Tools & Methodology
 *   **Experimental Design:** Built with [lab.js](https://lab.js.org/).
